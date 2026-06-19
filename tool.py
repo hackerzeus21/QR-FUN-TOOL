@@ -35,7 +35,7 @@ banner = r"""
 ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝    ╚═╝   ╚═╝ ╚═════╝
 
         ⚡ EXCOTIC ⚡
-   Kali Linux | Ethical Hacking
+   Kali Linux | Ethical Hacker | Security Learner
 
 """
 
